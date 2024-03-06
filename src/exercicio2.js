@@ -1,3 +1,7 @@
+// para rodar o código acima, abra um terminal na pasta src e execute o comando abaixo:
+// node exercicio2.js + <número>
+// Exemplo: node exercicio2.js 13
+
 function fibonacciSequence(n) {
     let fibonacci = [0, 1];
 
@@ -27,6 +31,3 @@ if (isInFibonacciSequence(numberToCheck, fibonacci)) {
     console.log(`${numberToCheck} não pertence à sequência de Fibonacci.`);
 }
 
-// para rodar o código acima, abra um terminal na pasta src e execute o comando abaixo:
-// node exercicio2.js + <número>
-// Exemplo: node exercicio2.js 13

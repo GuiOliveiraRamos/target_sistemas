@@ -1,3 +1,6 @@
+// para rodar o código acima, abra um terminal na pasta src e execute o comando abaixo:
+// node exercicio1.js
+
 let INDICE = 13;
 let SOMA = 0;
 let K = 0;
@@ -11,7 +14,5 @@ console.log(SOMA);
 
 //RESPOSTA: 91
 
-// para rodar o código acima, abra um terminal na pasta src e execute o comando abaixo:
-// node exercicio1.js
 
 

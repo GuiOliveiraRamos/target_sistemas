@@ -1,3 +1,7 @@
+// para rodar o código acima, abra um terminal na pasta src e execute o comando abaixo:
+// node exercicio5.js + <string>
+// Exemplo: node exercicio5.js 'teste'
+
 function revertString(str) {
     let revertStr = '';
 
@@ -19,7 +23,5 @@ const stringInvertida = revertString(string);
 console.log('String original:', string);
 console.log('String invertida:', stringInvertida);
 
-// para rodar o código acima, abra um terminal na pasta src e execute o comando abaixo:
-// node exercicio5.js + <string>
-// Exemplo: node exercicio5.js 'teste'
+
 
